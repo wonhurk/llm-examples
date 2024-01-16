@@ -9,7 +9,7 @@ thread_id = ""
 
 with st.sidebar:
     st.header("미토콘드리아 AiXpert Ver.1.0 ")
-    st.subheader("GPT 3.5 turbo / assitant", divider = "rainbow")
+    st.subheader("GPT 4/ assitant", divider = "rainbow")
     st.text("by Won Hur, wonhurk@gmail.com")
     st.text("")
     st.text("")
