@@ -18,7 +18,7 @@ with st.sidebar:
     st.text("")
     st.text("")
 
-    openai_api_key = st.text_input("OpenAI API Key", key="chatbot_api_key", type="password", value="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")
+    openai_api_key = st.text_input("OpenAI API Key", key="chatbot_api_key", type="password", value="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")
     "[Get an OpenAI API key](https://platform.openai.com/account/api-keys)"
 
     client = OpenAI(api_key=openai_api_key)
